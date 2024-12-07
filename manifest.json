@@ -1,0 +1,8 @@
+{
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/LiJiabBuo/classisland-mgmt-cfg1/master/policy.json",
+        "Version": 1
+    },
+    "ServerKind": 0,
+    "OrganizationName": "玉东二中课程表管理"
+}
