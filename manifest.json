@@ -13,8 +13,4 @@
         "Value": "https://raw.githubusercontent.com/LiJiabBuo/classisland-mgmt-cfg1/master/subjects.json",
         "Version": 1
     }
-    "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/LiJiabBuo/classisland-mgmt-cfg1/master/policy.json",
-        "Version": 1
-    }
 }
