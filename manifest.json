@@ -3,6 +3,6 @@
     "OrganizationName": "玉东二中课程表管理",
     "DefaultSource": {
         "Value": "https://raw.githubusercontent.com/LiJiabBuo/classisland-mgmt-cfg1/master/default.json",
-        "Version": 2
+        "Version": 1
     },
 }
